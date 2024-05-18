@@ -32,7 +32,7 @@ class ExpressionEvaluatorTest {
 
   @ParameterizedTest(name = "[{index}] {0}")
   @MethodSource("testCasesForEvaluate")
-  void testEvaluate(String description, Expression expression, Object expectedOutcome) { // Changes here
+  void testEvaluate(String ignoredDescription, Expression expression, Object expectedOutcome) { // Changes here
     if (expectedOutcome instanceof Class<?>) {
       @SuppressWarnings("unchecked")
       Class<? extends Exception> expectedException = (Class<? extends Exception>) expectedOutcome;
