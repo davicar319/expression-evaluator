@@ -4,26 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="feb02d8f-ea66-47a6-94b8-bd8e403a2d6e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/aceprogramming/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/aceprogramming/expression/Expression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/aceprogramming/expression/ExpressionEvaluator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/aceprogramming/expression/ExpressionEvaluatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/aceprogramming/expression/TestCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/aceprogramming/expression/TestOutcome.java" afterDir="false" />
+    <list default="true" id="feb02d8f-ea66-47a6-94b8-bd8e403a2d6e" name="Changes" comment="Initial commit.">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/aceprogramming/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/aceprogramming/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/aceprogramming/expression/ExpressionEvaluatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/aceprogramming/expression/ExpressionEvaluatorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +62,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/davicar319/expression-evaluator.git",
+    "accountId": "895c364f-3498-42d9-85c4-7fbe88aa85b7"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
@@ -118,7 +107,7 @@
       <recent name="com.aceprogramming.expression" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.ExpressionEvaluatorTest">
+  <component name="RunManager" selected="Gradle.expression-evaluator [build]">
     <configuration name="ExpressionEvaluatorTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -213,10 +202,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.ExpressionEvaluatorTest" />
-        <item itemvalue="Gradle.ExpressionEvaluatorTest.testEvaluate" />
         <item itemvalue="Gradle.expression-evaluator [build]" />
         <item itemvalue="Gradle.expression-evaluator [clean]" />
+        <item itemvalue="Gradle.ExpressionEvaluatorTest" />
+        <item itemvalue="Gradle.ExpressionEvaluatorTest.testEvaluate" />
       </list>
     </recent_temporary>
   </component>
@@ -236,12 +225,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716055679564</updated>
-      <workItem from="1716055680632" duration="2211000" />
+      <workItem from="1716055680632" duration="2613000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit.">
+      <option name="closed" value="true" />
+      <created>1716057990626</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716057990626</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
